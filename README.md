@@ -1,3 +1,3 @@
-My first git repository
-Created on Day1 training
+My first git repository through killercoda 
+Created on Day1
 This is my second change
